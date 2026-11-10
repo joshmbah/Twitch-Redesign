@@ -17,4 +17,4 @@ Bottom navigation across the app: Home, Browse, Go Live, Activity, Profile.
 
 - `Mbah_Joshua_Wireframe.pdf` — the full wireframe set (4 pages)
 
-Designed in Figma, informed by a usability study with 2 participants.
+Designed in Figma, informed by a usability study with 6 participants.
